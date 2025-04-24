@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Koolhydraatarm Weekmenu</title>
+    <link>https://marc7481.github.io/koolhydraatarm-weekmenu/weekmenu.pdf</link>
+    <description>Wekelijks koolhydraatarm weekmenu voor 2 personen</description>
+    <language>nl-nl</language>
+    <lastBuildDate>Wed, 24 Apr 2025 10:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Weekmenu voor 22 – 26 april 2025</title>
+      <link>https://marc7481.github.io/koolhydraatarm-weekmenu/weekmenu.pdf</link>
+      <description>Download hier het nieuwe koolhydraatarme weekmenu (PDF).</description>
+      <guid>https://marc7481.github.io/koolhydraatarm-weekmenu/weekmenu.pdf</guid>
+      <pubDate>Wed, 24 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
